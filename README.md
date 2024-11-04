@@ -5,7 +5,7 @@
   <br>Este quiz se debe resolver con el <b>cubo mágico</b>. Alternativamente, si ya sabés suficiente sobre él, no te hará falta entonces. Suerte!
   <br><br>PD: Hacer esto y portearlo para celular fue un <i>muy</i> grande dolor de cabeza.
 
-  <br>Favaloro 7. Favaloro 8 (ahora sí). Favaloro 9 (this is taking forever). 10.
+  <br>Favaloro 7. Favaloro 8 (ahora sí). Favaloro 9 (this is taking forever). 10. 11 (no more rotation).
   
   <img src="favaloro_premio.jpg" alt="Favaloro">
 </div>
